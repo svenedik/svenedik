@@ -15,8 +15,8 @@ Building scalable messaging infrastructure that reaches millions of users worldw
 
 ## 💼 Career Snapshot
 ```
-8+ years in software engineering
-4+ years leading product teams
+10+ years in software engineering
+5+ years leading product teams
 Insider shareholder & technical leader
 ```
 
